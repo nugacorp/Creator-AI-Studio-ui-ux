@@ -1,0 +1,6 @@
+{
+  "name": "Creator AI Studio",
+  "description": "A comprehensive Creator Operations System (Creator OS) to manage pipelines, scripts, voiceovers, thumbnails, and analytics with AI agents.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
